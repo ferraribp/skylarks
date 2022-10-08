@@ -1,0 +1,19 @@
+.classes {
+                color: rgb(66, 28, 28);
+                background: rgb(39, 138, 36);
+                border: 8px solid rgb(78, 8, 87);
+                width: 200px;
+                height:100px;
+                overflow: auto;
+                padding: 5px;
+            }
+            h1 {
+                color:rgb(150, 0, 150);
+                margin-left: 45px;
+            }
+            .heding{
+                
+                width: 70%;
+                height: 38px;
+                overflow: visible;
+            }
